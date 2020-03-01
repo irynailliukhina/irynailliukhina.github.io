@@ -8,12 +8,13 @@
     
   <li>Lesson 2. HTML tags
   
-  <a href="https://irynailliukhina.github.io/homework2/shopping_list.html" target="_blank"><br/>
-    Shopping list<a/><br/>
+  <a href="https://irynailliukhina.github.io/homework2/shopping_list.html" target="_blank">
+    Shopping list<a/>
   
   <a href="https://irynailliukhina.github.io/homework2/internet_adresses.html" target="_blank"><br/>
-    Internet adresses<a/><br/>
+    Internet adresses<a/>
   
-  <a href="https://irynailliukhina.github.io/homework2/content.html" target="_blank"><br/>
-    Content<a/><br/></li>
-    <li>Lesson 3. Git</li>
+  <a href="https://irynailliukhina.github.io/homework2/content.html" target="_blank">
+    Content<a/></li>
+    
+   <li>Lesson 3. Git</li>
