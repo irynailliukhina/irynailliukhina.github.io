@@ -4,7 +4,7 @@
 <ul>
   
   <li>Lesson 1. What is HTML? <br/>
-    <a href="https://irynailliukhina.github.io/homework1/cven.html" target="_blank">My CV</a></li>
+    <a href="https://irynailliukhina.github.io/homework1/cven.html" target="_blank" >My CV</a></li>
     
   <li>Lesson 2. HTML tags <br/>
   
