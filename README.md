@@ -4,7 +4,6 @@
             <a href="https://irynailliukhina.github.io/homework1/cven.html" target="_blank">My CV</a></li>
 
    <li>Lesson 2. HTML tags</li> <br />
-
   <a href="https://irynailliukhina.github.io/homework2/shopping_list.html" target="_blank">
             Shopping list</a> <br />
   <a href="https://irynailliukhina.github.io/homework2/internet_adresses.html" target="_blank">
