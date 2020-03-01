@@ -11,6 +11,6 @@
   <a href="https://irynailliukhina.github.io/homework2/internet_adresses.html" target="_blank">
     Internet adresses<a/> <br/>
   <a href="https://irynailliukhina.github.io/homework2/content.html" target="_blank">
-    Content<a/> </li>
+    Content<a/> <li/>
     
    <li>Lesson 3. Git</li>
