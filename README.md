@@ -10,7 +10,7 @@
   
   <a href="https://irynailliukhina.github.io/homework2/shopping_list.html" target="_blank">
     Shopping list<a/>
-  <a href="https://irynailliukhina.github.io/homework2/internet_adresses.html" target="_blank"><br/>
+  <a href="https://irynailliukhina.github.io/homework2/internet_adresses.html" target="_blank">
     Internet adresses<a/>
   <a href="https://irynailliukhina.github.io/homework2/content.html" target="_blank">
     Content<a/></li>
