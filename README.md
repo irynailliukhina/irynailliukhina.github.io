@@ -14,5 +14,8 @@
    <li>Lesson 4. CSS </li>
    <a href="https://irynailliukhina.github.io/hw4/index.html" target="_blank">
             My simple website</a>
+   <li> Lesson 5. Photoshop<li>
+   <a href= "https://irynailliukhina.github.io/hw5/index.html">Icons</a>
+   
             
  
