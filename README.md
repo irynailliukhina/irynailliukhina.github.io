@@ -1,8 +1,8 @@
 <h1> My homework</h1>
----
+
 *Lesson 1. What is HTML? <br />
  <a href="https://irynailliukhina.github.io/homework1/cven.html" target="_blank">My CV</a>
----
+ 
 *Lesson 2. HTML tags <br/>
 <a href="https://irynailliukhina.github.io/homework2/shopping_list.html" target="_blank">
 Shopping list</a> <br />
