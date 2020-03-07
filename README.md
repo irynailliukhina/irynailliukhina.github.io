@@ -9,12 +9,12 @@ Shopping list</a> <br />
 <a href="https://irynailliukhina.github.io/homework2/internet_adresses.html" target="_blank">
             Internet adresses</a> <br />
 <a href="https://irynailliukhina.github.io/homework2/content.html" target="_blank">
-            Content</a></li>
-Lesson 3. Git
-Lesson 4. CSS </li>
+            Content</a><br/>
+Lesson 3. Git <br/>
+Lesson 4. CSS <br/>
    <a href="https://irynailliukhina.github.io/hw4/index.html" target="_blank">
-            My simple website</a>
-Lesson 5. Photoshop <br>
+            My simple website</a><br/>
+Lesson 5. Photoshop </br>
    <a href= "https://irynailliukhina.github.io/hw5/index.html">Icons</a>
    
             
