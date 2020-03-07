@@ -15,7 +15,10 @@ Lesson 4. CSS <br/>
    <a href="https://irynailliukhina.github.io/hw4/index.html" target="_blank">
             My simple website</a><br/>
 Lesson 5. Photoshop </br>
-   <a href= "https://irynailliukhina.github.io/hw5/index.html">Icons</a>
+   <a href= "https://irynailliukhina.github.io/hw5/index.html">Icons</a> </br>
+Lesson 6. CSS celectors<br />
+ <a href= "https://irynailliukhina.github.io/hw6/index.html">First website</a> </br>
+
    
             
  
