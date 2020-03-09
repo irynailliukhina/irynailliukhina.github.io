@@ -19,6 +19,8 @@ Lesson 5. Photoshop </br>
    <a href= "https://irynailliukhina.github.io/hw5.2/index.html">Casper</a> </br>
 Lesson 6. CSS celectors<br />
  <a href= "https://irynailliukhina.github.io/hw6/index.html">First website</a> </br>
+ <a href= "https://irynailliukhina.github.io/hw6.2/index.html">CSS Dinner Shopping List</a> </br>
+ 
 
    
             
