@@ -27,6 +27,11 @@ Lesson 7. Box model <br/>
  Lesson 8. Flex-box <br/>
  <a href= "https://irynailliukhina.github.io/cups/index.html">Cups</a> <br/>
  <a href= "https://irynailliukhina.github.io/hw8/index.html">Magasine</a> <br/>
+ Lesson 9. Fonts and text <br/>
+ <a href= "https://irynailliukhina.github.io/hw9/index.html">Article</a> <br/>
+  <a href= "https://irynailliukhina.github.io/hw9/index.html">Article</a> <br/>
+
+
  
 
    
