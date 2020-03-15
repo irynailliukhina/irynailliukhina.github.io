@@ -20,8 +20,12 @@ Lesson 5. Photoshop <br/>
 Lesson 6. CSS celectors<br/>
  <a href= "https://irynailliukhina.github.io/hw6/index.html">First website</a> <br/>
  <a href= "https://irynailliukhina.github.io/hw6.2/index.html">CSS Dinner Shopping List</a> <br/>
- Lesson 7. Box model <br/>
+Lesson 7. Box model <br/>
   <a href= "https://irynailliukhina.github.io/hw7/project7/index.html">Email</a> <br/>
+   <a href= "https://irynailliukhina.github.io/namaste/index.html">Namaste</a> <br/>
+    <a href= "https://irynailliukhina.github.io/hw7.2/index.html">Weather Forecast</a> <br/>
+ Lesson 8. Flex-box <br/>
+ 
  
 
    
