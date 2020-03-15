@@ -25,7 +25,8 @@ Lesson 7. Box model <br/>
    <a href= "https://irynailliukhina.github.io/namaste/index.html">Namaste</a> <br/>
     <a href= "https://irynailliukhina.github.io/hw7.2/index.html">Weather Forecast</a> <br/>
  Lesson 8. Flex-box <br/>
- 
+ <a href= "https://irynailliukhina.github.io/cups/index.html">Cups</a> <br/>
+ <a href= "https://irynailliukhina.github.io/hw8/index.html">Magasine</a> <br/>
  
 
    
