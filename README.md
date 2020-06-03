@@ -10,14 +10,7 @@ Box model <br/>
  <a href= "https://irynailliukhina.github.io/cups/index.html">Cups</a> <br/>
  <a href= "https://irynailliukhina.github.io/hw8/index.html">Magasine</a> <br/>
 
- Lesson 10. Position and transform <br/>
- <a href= "https://irynailliukhina.github.io/blog/index.html">Blog</a> <br/>
- 
- Lesson 12. Forms <br/>
  <a href= "https://irynailliukhina.github.io/violet/index.html">Violet form</a> <br/>
-  <a href= "https://irynailliukhina.github.io/contact-form/index.html">Contact form</a> <br/>
- 
-
 
   Lesson 14. Prepro <br/>
  <a href= "https://irynailliukhina.github.io/ourteam/dist/index.html">Our team</a> <br/>
