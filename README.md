@@ -9,9 +9,7 @@ Box model <br/>
  Flex-box <br/>
  <a href= "https://irynailliukhina.github.io/cups/index.html">Cups</a> <br/>
  <a href= "https://irynailliukhina.github.io/hw8/index.html">Magasine</a> <br/>
- Lesson 9. Fonts and text <br/>
- <a href= "https://irynailliukhina.github.io/hw9/index.html">Article</a> <br/>
-  <a href= "https://irynailliukhina.github.io/hw9/index.html">Article</a> <br/>
+
  Lesson 10. Position and transform <br/>
  <a href= "https://irynailliukhina.github.io/blog/index.html">Blog</a> <br/>
  
