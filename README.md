@@ -11,12 +11,17 @@ Box model <br/>
  <a href= "https://irynailliukhina.github.io/hw8/index.html">Magasine</a> <br/>
 
  <a href= "https://irynailliukhina.github.io/violet/index.html">Violet form</a> <br/>
-
-  Lesson 14. Prepro <br/>
+SDB Page <br/>
+ <a href= "Prepro <br/>
+ <a href= "https://irynailliukhina.github.io/ourteam/dist/index.html">Our team</a> <br/>">SDB page</a> <br/>
+ 
+ Prepro <br/>
  <a href= "https://irynailliukhina.github.io/ourteam/dist/index.html">Our team</a> <br/>
 
- Lesson 15. Responsive <br/>
+ Responsive <br/>
  <a href= "https://irynailliukhina.github.io/responsive/dist/index.html">Cahee</a> <br/>
 
+https://irynailliukhina.github.io/grid-animation/
+https://irynailliukhina.github.io/monticello/index.html
+https://irynailliukhina.github.io/jQuery_calc/
             
- 
