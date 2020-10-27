@@ -21,7 +21,7 @@ SDB Page <br/>
  Responsive <br/>
  <a href= "https://irynailliukhina.github.io/responsive/dist/index.html">Cahee</a> <br/>
 
-https://irynailliukhina.github.io/grid-animation/
+https://irynailliukhina.github.io/grid-animation/ <br/>
 https://irynailliukhina.github.io/monticello/index.html
 https://irynailliukhina.github.io/jQuery_calc/
             
