@@ -11,8 +11,7 @@ Box model <br/>
  <a href= "https://irynailliukhina.github.io/hw8/index.html">Magasine</a> <br/>
 
  <a href= "https://irynailliukhina.github.io/violet/index.html">Violet form</a> <br/>
-SDB Page <br/>
- <a href= "Prepro <br/>
+
  <a href= "https://irynailliukhina.github.io/ourteam/dist/index.html">Our team</a> <br/>">SDB page</a> <br/>
  
  Prepro <br/>
@@ -23,5 +22,5 @@ SDB Page <br/>
 
 https://irynailliukhina.github.io/grid-animation/ <br/>
 https://irynailliukhina.github.io/monticello/index.html <br/>
-https://irynailliukhina.github.io/jQuery_calc/
-            
+https://irynailliukhina.github.io/jQuery_calc/ <br/>
+https://irynailliukhina.github.io/cdb/dist/index.html <br/>           
